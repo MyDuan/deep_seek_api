@@ -10,7 +10,3 @@
 
 ### change model
 - you can try different model by editiing the model_name in deepseek_api.py
-
-### future
-
-Add more features.
